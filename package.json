@@ -1,0 +1,17 @@
+{
+  "name": "lua-deobfuscator",
+  "version": "1.0.0",
+  "description": "A Lua script deobfuscator.",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "targets": [
+      "node16-win-x64"
+    ]
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nguyen Minh Nhat",
+  "license": "MIT"
+}
